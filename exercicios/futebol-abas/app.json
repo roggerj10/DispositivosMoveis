@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "lista-times-jogadores",
-    "slug": "lista-times-jogadores",
+    "name": "futebol-abas",
+    "slug": "futebol-abas",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
